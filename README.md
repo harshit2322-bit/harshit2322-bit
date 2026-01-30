@@ -16,7 +16,7 @@
 
 ###
 
-(https://harshit2322-bit.github.io/harshit2322-bit/snake.svg)
+
 
 ###
           
