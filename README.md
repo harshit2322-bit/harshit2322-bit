@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Multiple programming languages**
 
-- 💬 Ask me about **frontend,backend**
+- 💬 Ask me about **frontend,backend languages and also Data Science**
 
 - 📫 How to reach me **harshit07792@gmail.com**
 
